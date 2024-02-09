@@ -12,5 +12,6 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Ockiya Cliff, Milton Black",
-  "license": "ISC"
+  "license": "ISC",
+  "keywords": []
 }
